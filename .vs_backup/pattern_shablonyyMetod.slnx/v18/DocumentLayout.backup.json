@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|d:\\college\\konstruyuvannyapz\\pattern_shablonyymetod\\pattern_shablonyymetod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|solutionrelative:pattern_shablonyymetod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|d:\\college\\konstruyuvannyapz\\pattern_shablonyymetod\\pattern_shablonyymetod\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|solutionrelative:pattern_shablonyymetod\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|d:\\college\\konstruyuvannyapz\\pattern_shablonyymetod\\pattern_shablonyymetod\\icewater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|solutionrelative:pattern_shablonyymetod\\icewater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|d:\\college\\konstruyuvannyapz\\pattern_shablonyymetod\\pattern_shablonyymetod\\mojito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|solutionrelative:pattern_shablonyymetod\\mojito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|d:\\college\\konstruyuvannyapz\\pattern_shablonyymetod\\pattern_shablonyymetod\\lemonade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615C689-77C5-4663-9A8C-7A4F47AFED87}|pattern_shablonyyMetod\\pattern_shablonyyMetod.csproj|solutionrelative:pattern_shablonyymetod\\lemonade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\Program.cs",
+              "RelativeDocumentMoniker": "pattern_shablonyyMetod\\Program.cs",
+              "ToolTip": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\Program.cs*",
+              "RelativeToolTip": "pattern_shablonyyMetod\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:23:31.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IceWater.cs",
+              "DocumentMoniker": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\IceWater.cs",
+              "RelativeDocumentMoniker": "pattern_shablonyyMetod\\IceWater.cs",
+              "ToolTip": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\IceWater.cs",
+              "RelativeToolTip": "pattern_shablonyyMetod\\IceWater.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:23:09.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mojito.cs",
+              "DocumentMoniker": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\Mojito.cs",
+              "RelativeDocumentMoniker": "pattern_shablonyyMetod\\Mojito.cs",
+              "ToolTip": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\Mojito.cs",
+              "RelativeToolTip": "pattern_shablonyyMetod\\Mojito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:22:50.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lemonade.cs",
+              "DocumentMoniker": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\Lemonade.cs",
+              "RelativeDocumentMoniker": "pattern_shablonyyMetod\\Lemonade.cs",
+              "ToolTip": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\Lemonade.cs",
+              "RelativeToolTip": "pattern_shablonyyMetod\\Lemonade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:22:29.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\Drink.cs",
+              "RelativeDocumentMoniker": "pattern_shablonyyMetod\\Drink.cs",
+              "ToolTip": "D:\\College\\konstruyuvannyaPZ\\pattern_shablonyyMetod\\pattern_shablonyyMetod\\Drink.cs",
+              "RelativeToolTip": "pattern_shablonyyMetod\\Drink.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:18:59.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
