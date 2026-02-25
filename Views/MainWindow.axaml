@@ -1,0 +1,42 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Pr2AvaloniaMVVM.ViewModels"
+        x:Class="Pr2AvaloniaMVVM.Views.MainWindow"
+		x:DataType="vm:MainWindowViewModel"
+        Width="400"
+        Height="350"
+        Title="Журнал обчислень">
+
+	<Design.DataContext>
+		<vm:MainWindowViewModel/>
+	</Design.DataContext>
+
+	<StackPanel Margin="30" Spacing="10">
+
+		<TextBlock Text="Журнал обчислень"
+                   FontSize="20"
+                   HorizontalAlignment="Center"/>
+
+		<TextBox Text="{Binding Input}"
+                 Watermark="Введіть вираз (наприклад 2+2)"
+                 FontSize="16"/>
+
+		<Button Content="Обчислити"
+                Click="OnCalculateClick"
+                FontSize="16"
+                HorizontalAlignment="Center"/>
+
+		<TextBlock Text="{Binding Result}"
+                   FontSize="18"
+                   Foreground="Blue"
+                   HorizontalAlignment="Center"/>
+		<TextBlock Text="Історія обчислень"
+           FontSize="16"
+           Margin="0,15,0,5"/>
+
+		<ListBox ItemsSource="{Binding History}"
+				 Height="120"/>
+
+	</StackPanel>
+
+</Window>
